@@ -9,6 +9,8 @@ export default function Nav() {
       <ul className={styles.links}>
         <li><a href="#about">about</a></li>
         <li><a href="#career">career</a></li>
+        <li><a href="#projects">projects</a></li>
+        <li><a href="#education">education</a></li>
         <li><a href="#books">books</a></li>
         <li><a href="#blog">blog</a></li>
       </ul>
