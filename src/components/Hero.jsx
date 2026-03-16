@@ -21,6 +21,7 @@ export default function Hero() {
             <a href="https://twitter.com/YOUR_HANDLE" target="_blank" rel="noreferrer">tw</a>
             <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank" rel="noreferrer">li</a>
             <a href="https://github.com/YOUR_HANDLE" target="_blank" rel="noreferrer">gh</a>
+            <a href="https://substack.com/@treenaduttamajumdar" target="_blank" rel="noreferrer">ss</a>
           </div>
         </div>
       </div>
