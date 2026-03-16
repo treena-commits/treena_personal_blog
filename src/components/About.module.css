@@ -1,0 +1,45 @@
+.outer {
+  background: var(--dark-bg);
+  width: 100%;
+}
+
+.inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 4rem var(--gap);
+}
+
+.label {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+  margin-bottom: 1.5rem;
+  text-transform: lowercase;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 580px;
+}
+
+.body p {
+  font-size: 14px;
+  line-height: 1.85;
+  color: var(--dark-fg);
+}
+
+.accent {
+  color: var(--accent);
+}
+
+.readMore {
+  color: var(--accent);
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 1px;
+}
+
+.readMore:hover {
+  opacity: 0.75;
+}
