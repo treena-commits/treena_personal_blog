@@ -4,7 +4,7 @@ export default function Nav() {
   return (
     <nav className={styles.nav}>
       <span className={styles.name}>
-        <a href="#top">tdm</a>
+        <a href="#top">Treena Dutta</a>
       </span>
       <ul className={styles.links}>
         <li><a href="#about">about</a></li>
