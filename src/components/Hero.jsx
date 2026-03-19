@@ -43,8 +43,7 @@ export default function Hero() {
           <span className={styles.accent}>Majumdar.</span>
         </h1>
         <p className={styles.tagline}>
-          {/* EDIT: Replace with your one-line tagline */}
-          I build <span className={styles.accentText}>[what you build]</span> for [who you build for].
+          Building <span className={styles.accentText}>Adlily.pro</span> (Distribution platform for Brands) &nbsp;|&nbsp; Ex- Product & Growth at Lowe's | Sprinklr &nbsp;|&nbsp; Ex- Software Engineer at Dell EMC
         </p>
         <div className={styles.actions}>
           {/* EDIT: Update your email */}
