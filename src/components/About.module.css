@@ -30,6 +30,15 @@
   color: var(--dark-fg);
 }
 
+.sectionHeading {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+  text-transform: lowercase;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
 .accent {
   color: var(--accent);
 }
